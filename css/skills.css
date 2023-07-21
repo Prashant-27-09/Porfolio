@@ -1,0 +1,94 @@
+*{
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color:#4988b2;
+}
+.navbar{
+    width: 100%;
+   
+    margin-right: 0;
+    display: flex;
+    height: 15vh;
+}
+
+.navbar ul{
+   margin-right: 5vw;
+   display: flex;
+    
+    
+}
+.navbar ul li{
+   
+    list-style: none;
+    padding: 1rem;
+    font-size: 1.3rem;
+    color: #4988b2;
+    cursor: pointer;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+   
+
+    
+   
+}
+
+.skills-head{
+    font-size: 2rem;
+    color: #4988b2;
+    margin-left: 2rem;
+}
+
+.skills-container{
+    display: flex;
+}
+.con{
+    background-color: aliceblue;
+    margin: 1rem;
+    height: 10rem;
+    border-radius: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4988b2;
+    box-shadow: 0px 2px 5px 0px black;
+}
+.con h2{
+    text-align: center;
+    padding: 1rem 0rem;
+}
+
+.con p{
+    padding: 0rem 1rem;
+}
+
+.header{
+    color: #4988b2;
+    margin: 2rem;
+    text-align: center;
+    text-shadow: 0px 1px 2px black;
+}
+.image img{
+    width: 100vw;
+    height: 30vh;
+}
+
+.tech{
+    margin-top: 1rem;
+    
+    margin: 20px;
+    border-radius: 20%;
+    display: flex;
+    height: 40vh;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px 5px black;
+    padding: 20px 0px;
+    opacity: .7;
+    
+}
+
+.tech li{
+    padding: 1rem 0rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #75C2F6;
+    
+}
